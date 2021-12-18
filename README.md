@@ -1,4 +1,4 @@
-# Optimization strategies for (Rank)-Support-Vector-Machines SVM
+# Optimization strategies for (Rank)-Support-Vector-Machines 
 
 This work is carried out within the scope of the "Optimization for data science" course by Alexandre Gramfort and Robert Gower.
 
