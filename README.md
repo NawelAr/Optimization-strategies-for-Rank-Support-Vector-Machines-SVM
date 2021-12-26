@@ -1,6 +1,6 @@
 # Optimization strategies for (Rank)-Support-Vector-Machines 
 
-This work is carried out within the scope of the "Optimization for data science" course by Alexandre Gramfort and Robert Gower.
+This work was carried out within the scope of the "Optimization for data science" course by Alexandre Gramfort and Robert Gower.
 The project was carried out in partnership with Pierre-André Mikem.
 
 ## Aim:
